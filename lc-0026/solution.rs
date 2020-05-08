@@ -12,8 +12,5 @@ impl Solution {
             }
         }
         (i + 1) as i32
-
-        // nums.dedup();
-        // nums.len() as i32
     }
 }
